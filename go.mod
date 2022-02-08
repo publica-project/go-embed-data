@@ -1,3 +1,3 @@
 module github.com/publica-project/go-embed-data
 
-go 1.15
+go 1.13
